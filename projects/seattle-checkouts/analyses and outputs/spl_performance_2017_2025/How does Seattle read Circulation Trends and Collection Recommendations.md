@@ -24,22 +24,22 @@ Seattle Public Library circulation data covering more than 50 million checkouts 
 
 The Seattle Public Library system comprises of [27 branches](https://www.spl.org/using-the-library/get-started/get-started-in-english/en-get-started-at-library-branches#:~:text=We%20have%2027%20Library%20locations,staff%20for%20help%20or%20information.), directly serving [440,000 patrons](https://www.seattletimes.com/opinion/libraries-are-essential-seattles-library-levy-needs-to-reflect-that/) out of [800,000+](https://ofm.wa.gov/wp-content/uploads/sites/default/files/public/dataresearch/pop/april1/ofm_april1_population_final.pdf?ref=theurbanist.org) Seattle residents.  As of 2025, the system circulates an average 22,000 physical book checkouts across 68,000 unique titles, and 26,000 digital ebook checkouts across 66,000 titles.  Understanding what patrons read, and when, helps identify gaps in access and opportunities to better serve all communities.
 
-![image.png](/figures/total_checkouts.png)
+![image.png](figures/total_checkouts.png)
 
 
 # Format Trends, Reader Preferences, and Equitable Access
 
 Physical book checkouts made up the majority of total book circulation in 2017 (72% of all checkouts), and had been slowly declining in favor of ebooks (64% by 2020), when COVID-19 accelerated the shift. Library closures in early 2020 pushed virtually all total checkouts to digital. When branches reopened in August 2020, physical checkouts recovered steadily, reaching parity with digital by July 2021. That balance held until September 2023, when digital checkouts began to consistent outpace physical.
 
-![image.png](/figures/pct_share_total_checkouts.png)
+![image.png](figures/pct_share_total_checkouts.png)
 
 However, Physical books still represent 46% of 2025 checkouts, and serve residents who lack reliable device or internet access, or are otherwise better served by local branch programming. The Library's [HotSpot lending program](https://www.spl.org/using-the-library/reservations-and-requests/reserve-a-computer/computers-and-equipment/spl-hotspot) confirms that digital access is a documented gap for a real portion of SPL patrons. Children are equally critical.  Physical juvenile checkouts held steady throughout COVID closures, even as every other genre collapsed, signaling that the library is an essential reading resource for many children who otherwise lack alternatives at home.
 
-![image.png](/figures/top200_book_genre_breakdown.png)
+![image.png](figures/top200_book_genre_breakdown.png)
 
 Genre patterns confirm that digital and physical formats serve patron communities with different interests. Physical book checkouts are broadly distributed across genres (the top 10% of physical checkouts spans 23 genres), and Fiction, Historical, and Biography/Memoir have held consistent top-three positions since 2017. By contrast, ebook checkouts are more concentrated: the top 10% spans 17 genres.  And while Mystery/Thriller and Fiction have remained mainstays, Romance, Fantasy, and Juvenile have emerged as growing genres since 2020, displacing previously popular Nonfiction and Biography/Memoir titles.
 
-![image.png](/figures/genre_share_annual_combined.png)
+![image.png](figures/genre_share_annual_combined.png)
 
 Because digital and physical collections are serving different reader communities, they should be treated as complements rather than substitutes when building collections. Shifting budget away from physical collections toward ebooks risks leaving significant patron populations without access to the library's resources.
 
@@ -53,17 +53,17 @@ March, National Reading Month, increases the range of physical books checked out
 
 School holidays in July and August are peak circulation months for both digital and physical book formats.  Physical checkout growth comes from a wider range of titles being borrowed, suggesting that patrons are receptive to exploring more of the collection.  By contrast, digital checkout growth comes from the same number of titles circulating, but with faster turnaround time.
 
-![image.png](/figures/yoy_seasonal_trends_agg.png)
+![image.png](figures/yoy_seasonal_trends_agg.png)
 
 Physical checkouts of Graphic Novels peak circulation in July/ August, consistent with increased children's readership during school holidays. This is a natural moment for reader's advisory programming aimed at younger patrons. Investing further into the current Summer of Learning program with more reading challenges, staff picks lists highlighting graphic novel titles, and branch programming that celebrates children's reading interests can deepen literacy engagement and encourage young readers to explore more of the collection.
 
 Physical Mystery/Thriller checkouts spike consistently each November. Branch programming such as themed displays, staff recommendation lists, and book discussion groups centered on Mystery/Thriller titles during October and November can encourage patrons to explore and engage more deeply their seasonal interest in the genre.
 
-![image.png](/figures/checkout_share_by_genre_agg.png)
+![image.png](figures/checkout_share_by_genre_agg.png)
 
 The holiday period produces a shift from physical to digital books. In every year except 2020, ebook checkout share rises in December and reverses in January. Excluding 2020, the December spike averages +3.3 percentage points from November, followed by a reversal of -2.8 percentage points in January. Because this shift is predictable and temporary, ebook licensing capacity should be planned against December increases rather than annual averages.
 
-![image.png](/figures/mom_checkouts_delta.png)
+![image.png](figures/mom_checkouts_delta.png)
 
 
 Recommendation: Review staffing and operational capacity ahead of July and August. Invest in branch programming during National Reading Month and consider genre-specific fall promotions around Mystery/Thriller. Plan ebook licensing against December circulation patterns.
@@ -74,11 +74,11 @@ How long a title stays popular has changed substantially over time.  Historicall
 
 Since 2024, turnover in the top 10 list has increased.  Top 10 ebook and physical book titles alike spend one month in the top 10 before dropping out.  
 
-![image.png](/figures/median_survival_by_year.png)
+![image.png](figures/median_survival_by_year.png)
 
 Additionally, the top 10 physical and digital lists have diverged.  Top physical book titles are increasingly different from top digital ebook titles, with overlap decreasing from 15% to 1% since 2023.
 
-![image.png](/figures/pct_books_in_ebook_rankings_combined.png)
+![image.png](figures/pct_books_in_ebook_rankings_combined.png)
 
 
 A likely explanation for this changed behavior is that social media recommendation platforms (BookTok, for example) spark brief but significant spikes in patron interest in specific titles. This shortening popularity tenure is more dramatic for ebooks than for physical books.  Ebooks are borrowed on the same devices where patrons access social media. Discovery and checkout happen in the same attention environment, so patron interest builds and fades quickly. By contrast, physical borrowing requires a deliberate trip to a branch and a mental shift that requires sustained interest that extends engagement with the book.
