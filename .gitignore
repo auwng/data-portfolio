@@ -1,0 +1,11 @@
+# Data files — too large for GitHub
+projects/seattle-checkouts/data/
+projects/seattle-checkouts/.env
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
