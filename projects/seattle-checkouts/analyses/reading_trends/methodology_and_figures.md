@@ -9,17 +9,17 @@ Dataset and Scope: Seattle Public Library [circulation data](https://data.seattl
 **Popularity:** popular titles are those that make up the top 10% of monthly physical book or digital ebook checkout volume.
 
 ## Figures
-**Figure 1:** 35% of popular SPL titles never show up on the NYT Bestseller List.  The remaining 65% of popular SPL titles also show up on the NYT Bestseller List - roughly half debut in the same month, and the other half debut on NYT Bestsellers ahead of becoming popular at SPL.
+**Figure 1:** 35% of popular SPL titles never show up on the NYT Bestseller List.  The remaining 65% of popular SPL titles also show up on the NYT Bestseller List - roughly half debut in the same month, and the other half debut on NYT Bestsellers before becoming popular at SPL.
 ![image.png](figures/cross_list_segment_trends.png)
 
 
-**Figure 2:** Genre Breakdown of popular digital titles.  Among ebook checkouts, Romance grew from 10% -> 24% in July 2023, Fantasy grew from ~7% to a peak of 22% in March 2025, displacing COVID genre leaders Nonfiction (19% in 2020, now <2%) and Biography/Memoir (15% in 2020, now ~5%)
+**Figure 2:** Genre Breakdown of popular digital titles.  Among ebook checkouts, Romance grew from 10% -> 24% in July 2023, Fantasy grew from ~7% to a peak of 22% in March 2025, displacing COVID genre leaders Nonfiction (19% in 2020 -> <2% in 2025) and Biography/Memoir (15% in 2020 -> ~5% in 2025)
 ![image.png](figures/top200_ebook_genre_breakdown.png)
 
 
 **Figure 3:** COVID branch closures accelerated the shift of book checkouts from physical to digital.  Digital ebooks have made up the majority of checkout volume since September 2023.
 
-Total monthly checkouts declined during COVID-19 library branch closures (March–August 2020) and physical checkouts declined to near zero. Digital checkout volume partially offset the loss but did not fully recover total checkout volume.Post-reopening recovery was gradual, with total combined checkout volume returning to pre-COVID levels by mid-2021. By 2023, total volume had stabilized and digital checkouts consistently exceed physical checkouts.
+Total monthly checkouts declined during COVID-19 library branch closures (March–August 2020) and physical checkouts declined to near zero. Digital checkout volume partially offset the loss but did not fully recover total checkout volume.  Post-reopening recovery was gradual, with total combined checkout volume returning to pre-COVID levels by mid-2021. By 2023, total volume had stabilized and digital checkouts consistently exceed physical checkouts.
 
 Physical books made up ~72% of total checkouts in 2017, declining slowly to ~64% by early 2020. COVID branch closures moved virtually all checkouts online to digital. After branches reopened in August 2020, physical checkouts recovered steadily, catching up with with digital by July 2021. Both formats remained roughly equal until September 2023, after which digital consistently exceeds physical checkouts. As of 2025, the split is approximately 46% physical / 54% digital.
 ![image.png](figures/pct_share_total_checkouts.png)
